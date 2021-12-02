@@ -1,0 +1,2 @@
+# ogrenciOtomasyon
+Öğrenci otomasyonu
